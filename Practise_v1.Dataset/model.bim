@@ -18638,6 +18638,11 @@
             "name": "Userprinciapl name",
             "expression": "USERPRINCIPALNAME()",
             "lineageTag": "2ebdf768-3d90-430c-8ed7-3c33c0e53fe4"
+          },
+          {
+            "name": "Test Measure",
+            "expression": "\"Test MEasure\"",
+            "lineageTag": "9b917ae9-f2b6-4e7f-bb50-472e61af0482"
           }
         ],
         "partitions": [
